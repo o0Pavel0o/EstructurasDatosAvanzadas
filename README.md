@@ -1,1 +1,2 @@
-# Estructuras-de-Datos-Avanzadas
+# Estructuras de Datos Avanzadas
+Pavel Egido del Arco
