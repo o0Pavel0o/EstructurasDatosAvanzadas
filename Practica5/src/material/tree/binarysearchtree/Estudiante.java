@@ -119,7 +119,7 @@ public class Estudiante {
         
         Estudiante e1 = new Estudiante("Bartolo", 18, 429, 5.23);
         Estudiante e2 = new Estudiante("Eustaquio", 20, 126, 6.38);
-        Estudiante e3 = new Estudiante("Disnisio", 25, 201, 8.66);
+        Estudiante e3 = new Estudiante("Dinio", 25, 201, 8.66);
         Estudiante e4 = new Estudiante("Isidoro", 33, 158, 9.98);
         Estudiante e5 = new Estudiante("Benancio", 35, 609, 7.85);
         Estudiante e6 = new Estudiante("Marcelino", 24, 101, 6.32);
